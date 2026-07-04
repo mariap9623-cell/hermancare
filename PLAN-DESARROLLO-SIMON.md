@@ -1,6 +1,10 @@
 # Plan de Desarrollo Profesional — Simón Sanabria
 
-**Objetivo:** llevar a Simón (17 años, actualmente en Municipal F.C.) al fútbol profesional en los próximos 12–24 meses.
+**Perfil conocido:** 17 años · Categoría Sub-17 · Municipal F.C. · **Selección Bogotá** · Web: simonsanabria.co
+
+**Objetivo:** llevar a Simón al fútbol profesional colombiano (y de ahí al exterior) en los próximos 12–24 meses.
+
+> **Su mayor activo hoy es la Selección Bogotá.** Haber sido convocado a una selección de liga es exactamente el tipo de credencial que abre correos y veedurías: significa que ya pasó un filtro de scouts. Todo el material de presentación debe decirlo en la primera línea.
 
 **Por qué la urgencia es real:** la ventana de los 17 a los 20 años es la más importante del fútbol formativo. A los 17 todavía puede entrar a divisiones menores de clubes profesionales (Sub-18 / Sub-20); después de los 20 las puertas se reducen drásticamente. Cada semestre cuenta.
 
@@ -41,7 +45,7 @@ Nadie ficha a quien no puede ver. Este es el kit mínimo:
 - Contacto del responsable (tú, como hermana/o y persona de contacto).
 
 ### 2.3 Presencia digital
-- **Mejorar simonsanabria.co:** que tenga el video, el CV descargable, estadísticas actualizadas y un formulario/correo de contacto. Es una gran ventaja que ya exista — pocos juveniles la tienen.
+- **Mejorar simonsanabria.co:** hoy la portada muestra solo el nombre y el eslogan. Un scout que entra debe encontrar en menos de 10 segundos: **(1)** posición, edad, pierna y estatura, **(2)** "Sub-17 · Municipal F.C. · Selección Bogotá" bien visible, **(3)** el video highlights reproducible ahí mismo, **(4)** CV descargable y **(5)** correo/WhatsApp de contacto. Es una gran ventaja que la web ya exista — pocos juveniles la tienen — pero sin esos 5 elementos arriba, no trabaja para él.
 - **Instagram/TikTok deportivo:** solo contenido de fútbol (jugadas, entrenamientos). Los scouts sí revisan redes. Nada de contenido que genere dudas sobre disciplina.
 - **Perfiles en plataformas de scouting:** crear perfil en Transfermarkt (se puede solicitar la creación), YouScout, Fieldoo y similares. Son gratuitas o de bajo costo y los ojeadores las usan.
 
@@ -52,8 +56,13 @@ Nadie ficha a quien no puede ver. Este es el kit mínimo:
 ### Ruta A — Divisiones menores de un club profesional (la vía principal)
 La forma más directa: entrar a la cantera Sub-18/Sub-20 de un club profesional de primera o segunda división.
 
+**Lista inicial de clubes objetivo (Bogotá y alrededores):**
+- **Primera división (A):** Millonarios, Independiente Santa Fe, La Equidad, Fortaleza CEIF (club reconocido justamente por formar y proyectar juveniles — objetivo muy realista y valioso).
+- **Segunda división (B), excelente puerta de entrada:** Tigres F.C., Bogotá F.C., Real Cundinamarca; y en la región: Boyacá Chicó y Patriotas (Tunja), Llaneros (Villavicencio).
+- Ventaja logística: todo esto es alcanzable sin mudanza, lo que facilita pruebas y períodos de entrenamiento invitado.
+
 **Cómo:**
-1. Hacer una lista de 8–12 clubes profesionales alcanzables geográficamente (y 3–4 "sueño").
+1. Confirmar/ampliar esa lista a 8–12 clubes (y 3–4 "sueño" fuera de Bogotá: Atlético Nacional, América, Junior, etc.).
 2. Averiguar fechas de **convocatorias abiertas / veedurías**: casi todos los clubes profesionales hacen pruebas masivas 1–2 veces al año, normalmente antes de cada semestre. Se anuncian en sus redes oficiales.
 3. Contactar directamente a los **coordinadores de divisiones menores** por correo/redes con el CV + video. Es más efectivo de lo que parece: un correo corto, profesional, con el video como primer enlace.
 4. Pedir a los entrenadores actuales de Simón que activen sus contactos — el fútbol formativo funciona por recomendación.
@@ -61,8 +70,9 @@ La forma más directa: entrar a la cantera Sub-18/Sub-20 de un club profesional 
 **Realidad:** en una veeduría masiva ve el 5% de lo que Simón puede hacer. Las mejores oportunidades vienen de **pruebas por invitación** (1–2 semanas entrenando con el club), y a esas se llega con video + recomendación.
 
 ### Ruta B — Vitrinas y torneos de exposición
-- Inscribirse (con su club o con selecciones/combinados) en los **torneos nacionales e internacionales juveniles** de mayor visibilidad de su país — los que tienen scouts en las gradas.
-- **Selecciones departamentales/regionales:** si existe la posibilidad, es una vitrina enorme y gratuita.
+- **Selección Bogotá (ya está adentro — explotarlo al máximo):** los Campeonatos Nacionales Interligas de Difútbol son la vitrina juvenil número uno de Colombia; ahí van los scouts de todos los clubes de Dimayor y de la Federación (selecciones Colombia juveniles). Prioridad absoluta: mantenerse en las convocatorias y **grabar cada partido con la Selección**.
+- **Torneos nacionales juveniles Difútbol** (Sub-17/Sub-20) con Municipal F.C. o con el club que lo fiche.
+- La visibilidad con Selección Bogotá también es la puerta hacia los **microciclos de selecciones Colombia juveniles** — es el radar que usa la FCF.
 - **Showcases y ID camps** organizados por academias o agencias serias (verificar reputación antes de pagar — ver sección 6).
 
 ### Ruta C — Segunda división / clubes semiprofesionales como trampolín
