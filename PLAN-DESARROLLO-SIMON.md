@@ -1,6 +1,20 @@
 # Plan de Desarrollo Profesional — Simón Sanabria
 
-**Perfil conocido:** 17 años · Categoría Sub-17 · Municipal F.C. · **Selección Bogotá** · Web: simonsanabria.co
+**Perfil:**
+
+| Dato | Valor |
+|---|---|
+| Edad | 17 años (Sub-17) |
+| Estatura / Peso | 1,71 m / 67 kg |
+| Posiciones (según la web) | Falso 9, extremo izquierdo o derecho, volante 8, volante 6, lateral derecho |
+| Club | Municipal F.C. |
+| Selección | **Selección Bogotá (Liga de Fútbol de Bogotá)** |
+| Liderazgo | Capitán (brazalete visible en fotos de partido) |
+| Web | simonsanabria.co |
+| YouTube | youtube.com/@simonsanabriaoficial |
+| Instagram | @simonsp09 |
+
+> ⚠️ **Ajuste urgente al perfil: definir la posición.** Listar 6 posiciones (del falso 9 al lateral derecho) parece versatilidad, pero para un scout es una señal de perfil difuso: "¿qué es exactamente este jugador?". La regla del scouting juvenil: **una posición principal + máximo dos secundarias.** Hay que elegir dónde es realmente diferencial (¿dónde lo pone la Selección Bogotá? — esa es normalmente la respuesta correcta) y construir el video, el CV y la web alrededor de ese rol. La polivalencia se menciona después, como bonus, nunca como identidad.
 
 **Objetivo:** llevar a Simón al fútbol profesional colombiano (y de ahí al exterior) en los próximos 12–24 meses.
 
@@ -42,7 +56,11 @@ Nadie ficha a quien no puede ver. Este es el kit mínimo:
 - Trayectoria de clubes y torneos con años.
 - Estadísticas verificables.
 - Logros (selecciones departamentales, torneos ganados, distinciones individuales).
+- **Capitanía:** incluirla explícitamente — "capitán en Municipal F.C." dice liderazgo, disciplina y confianza del cuerpo técnico, cualidades que los formadores valoran tanto como el talento.
 - Contacto del responsable (tú, como hermana/o y persona de contacto).
+
+**Primera línea del CV (y de cada correo):**
+> *Simón Sanabria · 17 años · [POSICIÓN PRINCIPAL] · Selección Bogotá · Capitán Municipal F.C. · 1,71 m / 67 kg*
 
 ### 2.3 Presencia digital
 - **Mejorar simonsanabria.co:** hoy la portada muestra solo el nombre y el eslogan. Un scout que entra debe encontrar en menos de 10 segundos: **(1)** posición, edad, pierna y estatura, **(2)** "Sub-17 · Municipal F.C. · Selección Bogotá" bien visible, **(3)** el video highlights reproducible ahí mismo, **(4)** CV descargable y **(5)** correo/WhatsApp de contacto. Es una gran ventaja que la web ya exista — pocos juveniles la tienen — pero sin esos 5 elementos arriba, no trabaja para él.
@@ -190,6 +208,50 @@ El fútbol juvenil está lleno de aprovechados. Desconfiar automáticamente de:
 1. **Esperar a ser descubierto.** A los jugadores no los descubren: se muestran. La diferencia entre el que llega y el que no, muchas veces es quién tenía el video listo y mandó el correo.
 2. **Quedarse cómodo donde es figura.** Si Simón ya domina su categoría en Municipal F.C., quedarse otro año ahí es retroceder. Hay que buscar siempre el nivel donde le cueste.
 3. **Apostar todo a una sola puerta.** Las rutas A, B, C y D no se excluyen: se trabajan en paralelo. La beca en EE.UU. no le quita opciones al sueño del contrato profesional — se lo asegura si tarda en llegar.
+
+---
+
+## Anexo A — Plantilla de correo a coordinadores de divisiones menores
+
+**Asunto:** Simón Sanabria · 17 años · [POSICIÓN] · Selección Bogotá — video adjunto
+
+> Buenas tardes, [Nombre del coordinador]:
+>
+> Le escribo para presentarle a Simón Sanabria, [posición principal] de 17 años (1,71 m / 67 kg), actualmente capitán en Municipal F.C. y convocado por la **Selección Bogotá** de la Liga de Fútbol de Bogotá.
+>
+> Video de highlights (3 min): **[ENLACE DE YOUTUBE]**
+> Perfil completo y CV: **simonsanabria.co**
+>
+> Tenemos disponibilidad inmediata para veedurías o períodos de entrenamiento con [nombre del club]. Con gusto enviamos partidos completos sin editar si el cuerpo técnico lo desea.
+>
+> Quedo atenta a sus comentarios. Muchas gracias por su tiempo.
+>
+> [Tu nombre] — hermana y contacto de Simón
+> [Teléfono / WhatsApp] · [correo]
+
+**Reglas del correo:** corto (un scout lee 20 segundos), el video como enlace directo y visible, cero adjetivos grandilocuentes ("crack", "promesa") — los datos hablan: Selección Bogotá + capitán + video. Llevar registro en hoja de cálculo: club, persona, fecha de envío, respuesta, siguiente paso. Si no hay respuesta en 2 semanas, un (1) seguimiento amable. Nunca más de uno.
+
+---
+
+## Anexo B — Estructura del video highlights (3–4 minutos)
+
+Ya existe el canal (youtube.com/@simonsanabriaoficial) — el video maestro debe vivir ahí, sin restricción de edad ni privado.
+
+1. **0:00–0:08 — Portada:** nombre, edad, posición principal, club + Selección Bogotá, estatura, pierna. Una sola pantalla, 8 segundos, sin música épica de 30 segundos de intro.
+2. **0:08–1:00 — Las 5 mejores jugadas de su vida.** Sin calentamiento: la primera jugada debe ser la mejor. Si el scout cierra a los 60 segundos, ya vio lo esencial.
+3. **1:00–2:30 — Bloques por faceta según su posición principal** (p. ej., para un mediapunta/falso 9: definición, último pase, juego entre líneas, presión tras pérdida). 3–5 clips por bloque, rotulados.
+4. **2:30–3:30 — Contexto competitivo:** jugadas con la Selección Bogotá y en torneos fuertes, aunque sean menos vistosas. Nivel de rival > espectacularidad.
+5. **Cierre (5 seg):** contacto + web.
+
+**Reglas técnicas:** círculo/flecha sobre Simón al inicio de CADA clip; nada de clips de entrenamientos sin oposición (los scouts los descartan); velocidad real, sin cámara lenta excesiva; música opcional y discreta. Mantener además 1–2 **partidos completos** subidos como videos ocultos (unlisted) para enviar bajo demanda.
+
+---
+
+## Anexo C — Redes (YouTube + Instagram @simonsp09)
+
+- **Bio de Instagram:** posición · Selección Bogotá · capitán Municipal F.C. · enlace a simonsanabria.co. Hoy es la primera búsqueda que hace cualquier scout después de recibir un correo.
+- Contenido: jugadas propias, convocatorias, entrenamientos. Nada de contenido polémico; a esta edad las redes son parte del expediente del jugador.
+- Subir un clip corto (30–60 seg) semanal mantiene el perfil vivo sin gran esfuerzo: recortes del partido del fin de semana.
 
 ---
 
